@@ -5,7 +5,7 @@
 
 <br/>
 
-Recently Researchers from industry and academics are rushing to improve wireless networks functionalities using machine learning techniques especially using deep learing[1]. Deep learning shows exceptional imrovrment in vision tasks such as object classficication, tracking, etc. It also raised to new technologilies in industry space. Some examples include  identity verification, sight monitoring. 
+Recently researchers from industry and academics are rushing to improve wireless networks functionalities using machine learning techniques especially using deep learing[1]. Deep learning shows exceptional imrovrment in vision tasks such as object classficication, tracking, etc. It also raised to new technologilies in industry space. Some examples include  identity verification, sight monitoring. 
 Sharing limited resources is the main concern in wireless networks. Different medium access control (MAC) protocols have been proposed in the literature to allocate resources of the system between the endpoints. One of the main roles of MAC protocols is to decide when a node should access the shared link to transmit a packet. Given the various network and environment conditions, designing a flexible and efficient MAC protocol that fits with all possible different conditions is
 a challenge especially when these conditions are not available or known ahead of time.
 
