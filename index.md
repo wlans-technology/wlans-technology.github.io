@@ -1,11 +1,16 @@
 
 <br/>
 
-### Wireless Technology PHY and MAC Layer
+### Machine Learning in PHY and MAC Layer in Wireless Technology
 
 <br/>
 
-**8:30 - 9:00
+Recently Researchers from industry and academics are rushing to improve wireless networks functionalities using machine learning techniques especially using deep learing[1] [2] [3] {[4]. Deep learning shows exceptional imrovrment in vision tasks such as object classficication, tracking, etc. It also raised to new technologilies in industry space. Some examples include  identity verification, sight monitoring.
+
+
+<li>References</li>
+[1] H. B. Pasandi and T. Nadeem, “Challenges and limitations in automating the design of mac protocols using machine-learning,” in 2019 International Conference on Artificial Intelligence in Information and
+Communication (ICAIIC). IEEE, 2019, pp. 107–112.
 
 
 
