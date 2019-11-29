@@ -5,7 +5,7 @@
 
 <br/>
 
-Recently Researchers from industry and academics are rushing to improve wireless networks functionalities using machine learning techniques especially using deep learing[1] [2] [3] {[4]. Deep learning shows exceptional imrovrment in vision tasks such as object classficication, tracking, etc. It also raised to new technologilies in industry space. Some examples include  identity verification, sight monitoring.
+Recently Researchers from industry and academics are rushing to improve wireless networks functionalities using machine learning techniques especially using deep learing[1]. Deep learning shows exceptional imrovrment in vision tasks such as object classficication, tracking, etc. It also raised to new technologilies in industry space. Some examples include  identity verification, sight monitoring.
 
 
 <li>References</li>
