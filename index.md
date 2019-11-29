@@ -1,4 +1,3 @@
-The **First International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT 2019)** will be held in conjunction with [ACM SenSys 2019](http://sensys.acm.org/2019/) on November 10, 2019 in New York, NY, USA.
 
 <br/>
 
